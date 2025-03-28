@@ -6,25 +6,24 @@ This project is a Bankruptcy Prediction API built using FastAPI and Docker. It l
 - Predicts bankruptcy based on financial metrics
 - Deployed as a Docker container
 - Simple and efficient API interface
-- Streamlit frontend for easy interaction
 
 ## Users
 There are two types of users who may interact with this API:
 1. **Data Scientists/Engineers:** They build and maintain the model and API, and are responsible for deployment and monitoring.
-2. **End Users (e.g., Financial Analysts or Business Users):** They interact with the Streamlit frontend or directly with the API to get bankruptcy predictions.
+2. **End Users (e.g., Financial Analysts or Business Users):** They interact with the frontend or directly with the API to get bankruptcy predictions.
 
 ## Interaction Workflow
 Users interact with the system in the following way:
 1. **User Input:** End users enter financial data through the Streamlit frontend or via an API call.
 2. **Data Processing:** The API processes the input data and scales it using a pre-trained scaler.
 3. **Model Prediction:** The data is passed through a logistic regression model to predict the bankruptcy probability.
-4. **Result Display:** The prediction and probability are displayed to the user on the frontend or returned as JSON via API.
+4. **Result Display:** The prediction and probability are displayed to the user returned as JSON via API.
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/bankruptcy-prediction-api.git
+   git clone https://github.com/LindsayVeritis/BankBankruptcyPredictionAPI.git
    cd bankruptcy-prediction-api
    ```
 
