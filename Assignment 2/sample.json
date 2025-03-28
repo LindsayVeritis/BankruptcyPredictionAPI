@@ -1,0 +1,17 @@
+{
+  "Equity_to_Liability": 0.65,
+  "Debt_ratio_pct": 0.45,
+  "Per_Share_Net_profit_before_tax_Yuan_": 2.3,
+  "Accounts_Receivable_Turnover": 5.25,
+  "Total_debt_Total_net_worth": 1.1,
+  "Cash_Flow_to_Liability": 0.75,
+  "Operating_Profit_Rate": 0.15,
+  "Net_Income_to_Total_Assets": 0.08,
+  "Cash_Total_Assets": 0.2,
+  "Inventory_and_accounts_receivable_Net_value": 0.55,
+  "Contingent_liabilities_Net_worth": 0.1,
+  "Operating_profit_Paid_in_capital": 0.12,
+  "Non_industry_income_and_expenditure_revenue": 0.05,
+  "Current_Liability_to_Liability": 0.3,
+  "Current_Liability_to_Equity": 0.4
+}
